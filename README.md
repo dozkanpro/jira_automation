@@ -34,11 +34,11 @@ This Python script is designed to save time and effort for users who frequently 
 - Check the console for the generated Jira issue keys and links.
 
 ## Screenshots
- - Home Page:    
-   <div align="center"><img src="e_commerce_homepage.png" alt="UI Screenshot"/></div>
+ - **An example of Auto-generated Jira Issue:**    
+   <div align="center"><img src="Jira_automate_issue.png" alt="UI Screenshot"/></div>
 
- - Product Detail:    
-   <div align="center"><img src="e_commerce_product_detail.png" alt="UI Screenshot"/></div>
+ - **The Console View:**    
+   <div align="center"><img src="issue_created.png" alt="UI Screenshot"/></div>
 
 ## Contributing
    Contributions are welcome! Please fork the repository and create a pull request with your changes.
